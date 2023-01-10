@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++14 -O2  -g  -mpopcnt -g -rdynamic CMakeFiles/leetcode2027.dir/leetcode2027.cpp.o -o leetcode2027 

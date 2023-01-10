@@ -1,0 +1,3 @@
+/home/liuchaoqun/Documents/cPlus/build/CMakeFiles/leetcode2027.dir
+/home/liuchaoqun/Documents/cPlus/build/CMakeFiles/edit_cache.dir
+/home/liuchaoqun/Documents/cPlus/build/CMakeFiles/rebuild_cache.dir
