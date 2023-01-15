@@ -98,14 +98,5 @@ message(STATUS "    include path: ${OpenCV_INCLUDE_DIRS}")
 # add_executable(pose_estimation_3d3d pose_estimation_3d3d.cpp)
 # target_link_libraries(pose_estimation_3d3d PRIVATE ${OpenCV_LIBS} glog g2o_core g2o_stuff fmt)
 
-# add_executable(variables )
-
 add_executable(leetcode2027 leetcode2027.cpp)
-target_link_libraries(leetcode2027 PRIVATE)
-
-
-
-
-
-
-
+target_link_libraries(leetcode2027 PRIVATE)  

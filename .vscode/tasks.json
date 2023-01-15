@@ -1,0 +1,27 @@
+// (compiler build settings)
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "monotum",
+            // 指定编译器
+            "command":"./build.sh",
+            // "command": "/usr/bin/g++",
+            // "args":[
+            //     "-g",
+            //     "${workspaceFolder}/g2oCurveFitting.cpp",
+            //     "-o",
+            //     "${workspaceFolder}/build/g2oCurveFitting.out"
+            // ],
+            // "options": {
+            //     "cwd": "${workspaceFolder}"
+            // },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+        }
+        
+    ],
+    "version": "2.0.0"
+}
